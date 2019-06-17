@@ -1,1 +1,1 @@
-# lab-05
+# laboratorio 05
